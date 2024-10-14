@@ -39,7 +39,7 @@ CRUD: Interface yang mendefinisikan metode CRUD.
 
 Main: Kelas utama yang menjalankan program dan menyediakan antarmuka menu untuk pengguna.
 
-<h1> Cara Kerja Program <h1>
+<h1> Cara Kerja Program </h1>
 
 1. Menu Utama
 
