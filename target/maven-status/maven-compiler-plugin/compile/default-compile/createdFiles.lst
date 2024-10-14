@@ -1,0 +1,6 @@
+data\CRUD.class
+data\Donor.class
+data\PendonorTetap.class
+data\PengelolaDonor.class
+data\PendonorSporadis.class
+main\Main.class
