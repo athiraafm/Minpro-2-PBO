@@ -7,9 +7,8 @@ NIM : 2309116010
 Kelas : Sistem Informasi A
 
 
-Struktur Projek
-
-
+<h1> Struktur Projek </h1>
+ 
 ![image](https://github.com/user-attachments/assets/009c465a-94f3-48cd-b690-aa8a25676563)
 
 Struktur Projek ini menggunakan konsep Pemrograman Berorientasi Objek (OOP) dengan beberapa prinsip:
@@ -24,7 +23,7 @@ Struktur Projek ini menggunakan konsep Pemrograman Berorientasi Objek (OOP) deng
 
 5. Final Keyword: Kelas PendonorTetap dan PendonorSporadis dideklarasikan sebagai final, artinya tidak bisa diwarisi lagi. Beberapa atribut juga final untuk menjaga integritas data.
 
-Package data:
+<h2>Package data:</h2>
 
 Donor: Kelas abstrak yang menjadi superclass dari PendonorTetap dan PendonorSporadis.
 
@@ -36,11 +35,11 @@ PengelolaDonor: Kelas yang mengimplementasikan interface CRUD dan mengelola daft
 
 CRUD: Interface yang mendefinisikan metode CRUD.
 
-Package Main:
+<h2>Package main:</h2>
 
 Main: Kelas utama yang menjalankan program dan menyediakan antarmuka menu untuk pengguna.
 
-Cara Kerja Program 
+<h1> Cara Kerja Program <h1>
 
 1. Menu Utama
 
